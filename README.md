@@ -29,7 +29,7 @@ This project is a simple propositional logic inference engine implemented in Pyt
 ## Usage
 
 ```python
-from logic import Symbol, Not, And, Or, Implication, Biconditional, model_check
+from ai import *
 
 # Define symbols
 A = Symbol("A")
